@@ -1,4 +1,4 @@
-# https://nigker.cf
+<h1 align="center">https://nigker.cf</h1>
 
 <h1 align="center">Hi fellow discord user!</h1>
 
